@@ -9,12 +9,11 @@ p.odd {
     font-family: 'Tahoma', sans-serif;
 }
 
-.three {
+.adjust-font-size {
     font-size: 24px;
 }
 #four {
     font-family: 'Comic Sans MS', cursive;
     background-color: lightgreen;
     font-weight: bold;
-    font-size: 24px;
 }
