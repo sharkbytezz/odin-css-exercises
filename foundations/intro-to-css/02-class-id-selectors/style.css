@@ -6,8 +6,15 @@ p.odd {
 #two {
     color: blue;
     font-size: 36px;
+    font-family: 'Tahoma', sans-serif;
 }
 
-#three {
-    font-size: 26px;
+.three {
+    font-size: 24px;
+}
+#four {
+    font-family: 'Comic Sans MS', cursive;
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
 }
